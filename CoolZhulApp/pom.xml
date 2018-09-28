@@ -12,6 +12,9 @@
         <module>Common</module>
         <module>EureKaServer</module>
         <module>GateWayServer</module>
+        <module>CoreServer</module>
+        <module>RibbonServer</module>
+        <module>FeignServer</module>
     </modules>
 
     <parent>
